@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="62" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="120" class="">
     <defs>
         <style/>
     </defs>
@@ -1103,9 +1103,16 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
+                            <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
+                            <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
+                            <div class="label" title="Azure is a cloud computing service created by Microsoft.">azure</div>
                             <div class="label" title="ASP.NET is a web framework for building modern web apps and services.">asp.net</div>
                             <div class="label" title="A CLI, or command-line interface, is a console that helps users issue commands to a program.">command line interface</div>
+                            <div class="label" title="Auth0 is an Identity-as-a-Service provider.">auth0</div>
+                            <div class="label" title="">web-services</div>
+                            <div class="label" title="">oatuh2</div>
+                            <div class="label" title="">soap-web-services</div>
                         </div>
                     </section>
                 </div>
