@@ -3,7 +3,7 @@ on:
   # Schedule updates
   schedule: [{cron: "5 * * * *"}]
   # schedule: [{cron: "0 */8 * * *"}]
-  push: {branches: "master"}
+  push: {branches: "main"}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
