@@ -1276,8 +1276,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.50058506903815" height="8" fill="#867db1"/>
-                    <rect mask="url(#languages-bar)" x="437.50058506903815" y="0" width="22.49941493096185" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="440.5939193966533" height="8" fill="#867db1"/>
+                    <rect mask="url(#languages-bar)" x="440.5939193966533" y="0" width="19.406080603346687" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
