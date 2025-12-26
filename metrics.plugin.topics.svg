@@ -16,8 +16,8 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
+                            <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
                             <div class="label" title="Azure is a cloud computing service created by Microsoft.">azure</div>
                             <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
                             <div class="label" title="A CLI, or command-line interface, is a console that helps users issue commands to a program.">command-line interface</div>
